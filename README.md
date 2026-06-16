@@ -16,4 +16,4 @@ But behind every line of code is a real-world problem—and **your problem is so
 > *"You master the syntax, I'll help clear the roadblocks. Great software needs both."*
 
 ---
-💬 [Start a discussion here](https://github.com/siaopat/siaopat/issues/new?category=q-a) if you need a strategic partner to look at the bigger picture.
+💬 [Start a discussion here](https://github.com/siaopat/siaopat/discussions/new?category=q-a) if you need a strategic partner to look at the bigger picture.
