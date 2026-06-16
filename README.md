@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**siaopat/siaopat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤝 Let's talk logic.
 
-Here are some ideas to get you started:
+I don't write code. I don't build software. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But behind every line of code is a real-world problem—and **your problem is something we can discuss and solve together.**
+
+---
+
+### 🌐 What I bring to the table:
+* **Cross-Disciplinary Thinking:** Connecting the dots between business, logic, and human behavior.
+* **System & Flow Debugging:** You write the syntax, I’ll help clear the mental roadblocks and logical blind spots.
+* **Fresh Perspective:** Bringing an outside-the-box view when you are too close to the project to see the issue.
+
+> *"You master the syntax, I'll help clear the roadblocks. Great software needs both."*
+
+---
+💬 [Start a discussion here](https://github.com/siaopat/siaopat/issues/new?category=q-a) if you need a strategic partner to look at the bigger picture.
